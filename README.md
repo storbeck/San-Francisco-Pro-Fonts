@@ -1,7 +1,3 @@
-Here’s a **simple and clean README** for your GitHub font collection:
-
----
-
 # **SF Pro Fonts for Linux**  
 A simple guide to extracting and installing Apple’s **SF Pro** fonts on Linux.
 
